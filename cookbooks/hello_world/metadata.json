@@ -2,7 +2,7 @@
   "dependencies": {
   },
   "name": "hello_world",
-  "maintainer_email": "YOUR_EMAIL",
+  "maintainer_email": "mark.dotson@rightscale.com",
   "attributes": {
   },
   "license": "All rights reserved",
@@ -10,7 +10,7 @@
   },
   "platforms": {
   },
-  "maintainer": "YOUR_COMPANY_NAME",
+  "maintainer": "RightScale",
   "long_description": "= DESCRIPTION:\n\n= REQUIREMENTS:\n\n= ATTRIBUTES:\n\n= USAGE:\n\n",
   "version": "0.0.1",
   "recommendations": {

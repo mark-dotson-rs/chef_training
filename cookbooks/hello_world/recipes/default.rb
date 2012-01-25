@@ -2,7 +2,7 @@
 # Cookbook Name:: hello_world
 # Recipe:: default
 #
-# Copyright 2012, YOUR_COMPANY_NAME
+# Copyright 2012, RightScale 
 #
 # All rights reserved - Do Not Redistribute
 #
