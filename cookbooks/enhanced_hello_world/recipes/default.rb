@@ -8,3 +8,4 @@
 #
 
 log "Hello world damnit!"
+log "Why the heck not?"
