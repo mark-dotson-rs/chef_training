@@ -8,3 +8,4 @@
 #
 
 log "hello world!"
+log "hey that was great"
