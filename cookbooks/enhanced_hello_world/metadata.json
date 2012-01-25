@@ -16,6 +16,7 @@
   "recommendations": {
   },
   "recipes": {
+    "enhanced_hello_world::default": "This hello world is da bomb"
   },
   "groupings": {
   },
