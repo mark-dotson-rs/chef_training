@@ -3,7 +3,9 @@ maintainer_email "mark.dotson@rightscale.com"
 license          "All rights reserved"
 description      "Installs/Configures install_some_package"
 long_description IO.read(File.join(File.dirname(__FILE__), 'README.rdoc'))
-version          "0.0.1"
+version          "0.0.2"
 
-recipe "install_joe::install_some_package", "This installs Joe"
-recipe "install_tmux::install_some_package", "This installs Tmux"
+depends "rs_utils"
+supports "ubuntu"
+recipe "install_some_package::install_joe", "This installs Joe"
+recipe "install_some_package::install_tmux", "This installs Tmux"

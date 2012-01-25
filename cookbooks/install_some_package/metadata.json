@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "rs_utils": ">= 0.0.0"
   },
   "name": "install_some_package",
   "maintainer_email": "mark.dotson@rightscale.com",
@@ -9,15 +10,16 @@
   "suggestions": {
   },
   "platforms": {
+    "ubuntu": ">= 0.0.0"
   },
   "maintainer": "RightScale",
   "long_description": "= DESCRIPTION:\n\n= REQUIREMENTS:\n\n= ATTRIBUTES:\n\n= USAGE:\n\n",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "recommendations": {
   },
   "recipes": {
-    "install_tmux::install_some_package": "This installs Tmux",
-    "install_joe::install_some_package": "This installs Joe"
+    "install_some_package::install_tmux": "This installs Tmux",
+    "install_some_package::install_joe": "This installs Joe"
   },
   "groupings": {
   },
