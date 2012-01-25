@@ -1,0 +1,29 @@
+{
+  "dependencies": {
+  },
+  "name": "enhanced_hello_world",
+  "maintainer_email": "mark.dotson@rightscale.com",
+  "attributes": {
+  },
+  "license": "All rights reserved",
+  "suggestions": {
+  },
+  "platforms": {
+  },
+  "maintainer": "RightScale",
+  "long_description": "= DESCRIPTION:\n\n= REQUIREMENTS:\n\n= ATTRIBUTES:\n\n= USAGE:\n\n",
+  "version": "0.0.1",
+  "recommendations": {
+  },
+  "recipes": {
+  },
+  "groupings": {
+  },
+  "conflicting": {
+  },
+  "replacing": {
+  },
+  "description": "Installs/Configures enhanced_hello_world",
+  "providing": {
+  }
+}
