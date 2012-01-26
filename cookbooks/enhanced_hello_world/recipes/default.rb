@@ -9,3 +9,11 @@
 
 log "Hello world damnit!"
 log "Why the heck not?"
+
+directory "/tmp/useless" do
+  owner "root"
+  group "root"
+  mode 0755
+  path "/tmp/useless_override"
+  action :create
+end
